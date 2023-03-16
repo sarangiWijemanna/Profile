@@ -3,12 +3,12 @@
 <img src="waves.svg" width="100%" height="150">
 
 ## About Me
-<picture> <img align="right" src="codelikeagirl.gif" width = 250px></picture>
+<picture> <img align="right" src="girl.gif" width = 250px></picture>
 
 - 👩‍🎓 I am a `Graduate` with [Bsc. Electronics and Telecommunication Engineering]() at [SLTC Research University | LK](https://sltc.ac.lk/).
 - 🌱 I’m currently learning **ML, AI, DS, Data Engineering**
-- A self-motivated and creative graduate with exceptional analytical skills, driven by a passion for innovation and a commitment to excellence. 
-- Proven ability to manage multiple tasks in a fast-paced environment while applying advanced competencies to achieve successful outcomes. 
+- 💕 A self-motivated and creative graduate with exceptional analytical skills, driven by a passion for innovation and a commitment to excellence. 
+- 🔆 Proven ability to manage multiple tasks in a fast-paced environment while applying advanced competencies to achieve successful outcomes. 
 
 
 ## My Favorite Tools and Technologies ⚙️ 
@@ -224,10 +224,8 @@
 <table>
     <tr>
         <td>
-            <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sarangiwijemanna&show_icons=true&locale=en" alt="sarangiwijemanna" /></p>
+            <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sarangiwijemanna&show_icons=true&locale=en" alt="sarangiwijemanna" />             </p>
         </td>
-    </tr>
-    <tr>
         <td> 
             <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sarangiwijemanna&show_icons=true&locale=en&layout=compact" alt="sarangiwijemanna" /></p>
         </td>
@@ -238,9 +236,7 @@
 [![sarangiwijemanna's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=sarangiwijemanna&theme=github	)](https://github.com/sarangiwijemanna/github-readme-activity-graph)
 
  
-
 ### Profile Views 
-
 <img src="https://komarev.com/ghpvc/?username=sarangiwijemanna&label=PROFILE+VIEWS&style=for-the-badge&color=brightgreen">
 
 ### GitHub Profile Trophy 🏆
