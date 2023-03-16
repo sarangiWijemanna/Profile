@@ -3,8 +3,7 @@
 <img src="waves.svg" width="100%" height="150">
 
 ## About Me
-
-<picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
+<picture> <img align="right" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif" width = 250px></picture>
 
 - 👩‍🎓 I am a `Graduate` with [Bsc. Electronics and Telecommunication Engineering]() at [SLTC Research University | LK](https://sltc.ac.lk/).
 - 🌱 I’m currently learning **ML, AI, DS, Data Engineering**
@@ -246,10 +245,6 @@
 
 ### GitHub Profile Trophy 🏆
 [![trophy](https://github-profile-trophy.vercel.app/?username=sarangiwijemanna&row=1&margin-w=40)](https://github.com/ryo-ma/github-profile-trophy)
-
-### Contributions Graph
-<img src = "https://github.com/sarangiwijemanna/sarangiwijemanna/blob/output/github-contribution-grid-snake.svg?" alt = "Snake Game"/>
-
 
 ## Connect with me:
 <h4 align="left"> </h4>
