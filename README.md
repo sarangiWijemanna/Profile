@@ -235,9 +235,21 @@
     </tr>
 </table>
 
+### Activity Graph
+[![sarangiwijemanna's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=sarangiwijemanna&theme=github	)](https://github.com/sarangiwijemanna/github-readme-activity-graph)
+
+ 
+
 ### Profile Views 
 
-  <img src="https://komarev.com/ghpvc/?username=sarangiwijemanna&label=PROFILE+VIEWS&style=for-the-badge&color=brightgreen">
+<img src="https://komarev.com/ghpvc/?username=sarangiwijemanna&label=PROFILE+VIEWS&style=for-the-badge&color=brightgreen">
+
+### GitHub Profile Trophy 🏆
+[![trophy](https://github-profile-trophy.vercel.app/?username=sarangiwijemanna&row=1&margin-w=40)](https://github.com/ryo-ma/github-profile-trophy)
+
+### Contributions Graph
+<img src = "https://github.com/sarangiwijemanna/sarangiwijemanna/blob/output/github-contribution-grid-snake.svg?" alt = "Snake Game"/>
+
 
 ## Connect with me:
 <h4 align="left"> </h4>
