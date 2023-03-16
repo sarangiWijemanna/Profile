@@ -3,7 +3,7 @@
 <img src="waves.svg" width="100%" height="150">
 
 ## About Me
-<picture> <img align="right" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif" width = 250px></picture>
+<picture> <img align="right" src="codelikeagirl.gif" width = 250px></picture>
 
 - 👩‍🎓 I am a `Graduate` with [Bsc. Electronics and Telecommunication Engineering]() at [SLTC Research University | LK](https://sltc.ac.lk/).
 - 🌱 I’m currently learning **ML, AI, DS, Data Engineering**
