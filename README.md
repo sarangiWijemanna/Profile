@@ -6,7 +6,7 @@
 <picture> <img align="right" src="girl.gif" width = 250px></picture>
 
 - 👩‍🎓 I am a `Graduate` with [Bsc. Electronics and Telecommunication Engineering]() at [SLTC Research University | LK](https://sltc.ac.lk/).
-- 🌱 I’m currently learning **ML, AI, DS, Data Engineering**
+- 🌱 I’m currently learning **ML, AI, DS, Data Engineering**.
 - 💕 A self-motivated and creative graduate with exceptional analytical skills, driven by a passion for innovation and a commitment to excellence. 
 - 🔆 Proven ability to manage multiple tasks in a fast-paced environment while applying advanced competencies to achieve successful outcomes. 
 
@@ -246,6 +246,6 @@
 <h4 align="left"> </h4>
     <p align="left">
         <a href="https://linkedin.com/in/sarangi wijemanna" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sarangi wijemanna" height="30" width="40" /></a>
-        <a href="https://instagram.com/625_banu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="__b_a_n_u__" height="30" width="40" /></a>
+        <a href="https://instagram.com/__b_a_n_u__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="__b_a_n_u__" height="30" width="40" /></a>
         <a href="https://www.hackerrank.com/sarangi wijemanna" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="sarangi wijemanna" height="30" width="40" /></a>
     </p>
