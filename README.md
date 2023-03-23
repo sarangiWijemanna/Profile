@@ -233,8 +233,9 @@
 </table>
 
 ### Activity Graph
-[![sarangiwijemanna's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=sarangiwijemanna&theme=github	)](https://github.com/sarangiwijemanna/github-readme-activity-graph)
 
+<a href="https://github.com/sarangiwijemanna/github-readme-activity-graph"><img alt="rzashakeri's Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=sarangiwijemanna&bg_color=ffffff&color=000000&line=00ea70&point=403d3d&area=true&hide_border=true" /></a>
+</details>
  
 ### Profile Views 
 <img src="https://komarev.com/ghpvc/?username=sarangiwijemanna&label=PROFILE+VIEWS&style=for-the-badge&color=brightgreen">
