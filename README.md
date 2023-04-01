@@ -108,6 +108,12 @@
         </td>
         <td align="center" width="96">
             <a href="#macropower-tech">
+                <img src="https://upload.wikimedia.org/wikipedia/commons/3/32/OpenCV_Logo_with_text_svg_version.svg" alt="OpenCV" width="65" height="65" />
+            </a>
+            <br>OpenCV
+        </td>
+        <td align="center" width="96">
+            <a href="#macropower-tech">
                 <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="Scikit_learn" width="65" height="65" />
             </a>
             <br>Scikit_learn
